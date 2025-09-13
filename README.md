@@ -60,6 +60,7 @@ Custom-built biometric recognition system leveraging image processing and patter
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - Website/Blog: [yourwebsite.dev](https://yourwebsite.dev)
+- Portfolio: [r0psteev.github.io/Portfolio/](https://r0psteev.github.io/Portfolio/)
 
 ---
 
