@@ -29,22 +29,22 @@ My work blends cybersecurity with practical engineering to solve real-world chal
 
 ### 🔎 Distributed Network Scanner  
 A scalable, high-performance network scanner built to perform parallel scans across distributed nodes. Ideal for enterprise-level vulnerability assessments.  
-**Tech:** Golang · RabbitMQ · Docker · Kubernetes  
+**Tech:** Golang · RabbitMQ · Docker
 [GitHub Repo »](#) <!-- Replace # with actual link -->
 
 ---
 
 ### 🌐 Graph-Based Threat Intelligence Engine  
 A threat analysis platform using Neo4j to connect and explore relationships between malicious indicators like IPs, domains, hashes, and actors.  
-**Tech:** Python · Neo4j · FastAPI · TypeScript  
+**Tech:** Python · Neo4j · Flask · Golang · TypeScript · RabbitMQ  · Kubernetes  
 [GitHub Repo »](#)
 
 ---
 
 ### 🧬 Fingerprint Recognition System  
 Custom-built biometric recognition system leveraging image processing and pattern matching techniques.  
-**Tech:** Python · OpenCV · NumPy  
-[GitHub Repo »](#)
+**Tech:** Golang  
+[GitHub Repo »](https://github.com/r0psteev/avanpostCase2)
 
 ---
 
