@@ -57,10 +57,11 @@ Custom-built biometric recognition system leveraging image processing and patter
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: [r0psteev@gmail.com](mailto:r0psteev@gmail.com)
+- LinkedIn: [linkedin.com/in/etaba-ndongo-steve-arnold-863383159/](https://www.linkedin.com/in/etaba-ndongo-steve-arnold-863383159/)
+- Email: [***REMOVED***](mailto:***REMOVED***)
 - Website/Blog: [r0psteev.github.io](https://r0psteev.github.io)
 - Portfolio: [r0psteev.github.io/Portfolio/](https://r0psteev.github.io/Portfolio/)
+- Dev.to: [Dev.to](https://dev.to/r0psteev)
 
 ---
 
