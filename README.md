@@ -2,7 +2,7 @@
 
 Hi, I’m a **Cybersecurity Engineer** with a Bachelor's in Software Engineering, passionate about building secure, scalable, and data-driven systems.
 
-My work focuses on blending cybersecurity principles with software engineering to develop tools that solve real-world security challenges. I’ve built systems like:
+My work focuses on blending cybersecurity principles with software engineering to develop tools that solve real-world security challenges.
 
 ---
 
