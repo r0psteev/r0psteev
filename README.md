@@ -1,8 +1,6 @@
 # 👋 Hi, I'm [Arnold Etaba]
 
-Hi, I’m a **Cybersecurity Engineer** with a Bachelor's in Software Engineering, passionate about building secure, scalable, and data-driven systems.
-
-My work focuses on blending cybersecurity principles with software engineering to develop tools that solve real-world security challenges.
+Hi, I’m a **Security Researcher**, passionate about building secure, scalable, and data-driven systems.
 
 ---
 
