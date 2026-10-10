@@ -26,7 +26,7 @@ Hi, I’m a **Security Researcher**, passionate about building secure, scalable,
 ## 🚀 Featured Projects
 
 ### 🔎 Distributed Network Scanner  
-A scalable, high-performance network scanner built to perform parallel scans across distributed nodes. Ideal for enterprise-level vulnerability assessments.  
+A scalable, network scanner built to perform parallel scans across distributed nodes.  
 **Tech:** Golang · RabbitMQ · Docker
 [GitHub Repo »](https://github.com/r0psteev/cthulu-net) <!-- Replace # with actual link -->
 
